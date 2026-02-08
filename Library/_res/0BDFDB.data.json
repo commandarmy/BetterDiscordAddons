@@ -583,7 +583,7 @@
 		"ThreadSidebar": {"strings": ["baseChannelId:", ".SIDEBAR", ".THREAD_HEADER_BAR"]},
 		"TitleBar": {"strings": ["PlatformTypes.WINDOWS", "trailing", "onDoubleClick"]},
 		"TooltipContainer": {"protos": ["renderTooltip", "setDomElement", "shouldShowTooltip", "toggleShow"]},
-		"TooltipContainerWithShortcut": {"strings": ["\"asContainer\"", "shouldShow", "keyboardShortcut"]},
+		"TooltipContainerWithShortcut": {"strings": ["asContainer", "shouldShow", "keyboardShortcut"]},
 		"TransitionGroup": {"protos": ["performAppear", "performEnter", "performLeave"]},
 		"TypingUsers": {"strings": ["Easing.quad", ".emphasizeSlowmodeCooldown", ".sequence("]},
 		"UnavailableGuildsButton": {"strings": [".errorInner", ".guildsError"]},
