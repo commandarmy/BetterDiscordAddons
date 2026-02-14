@@ -285,7 +285,7 @@
 		"FormTitle": {"strings": [".errorSeparator", "defaultMargin", "required"]},
 		"KeybindRecorder": {"strings": [".RECORDING", ".DEFAULT", "toggleRecordMode"]},
 		"PopoutContainer": {"strings": ["Unsupported animation config"]},
-		"RadioGroup": {"strings": ["itemInfoClassName", "hasSelection", ".radioItemIconClassName"], "funcStrings": ["\"description\""]},
+		"RadioGroup": {"strings": ["itemInfoClassName", "hasSelection", ".radioItemIconClassName"], "funcStrings": ["description"]},
 		"SearchBar": {"strings": ["onClear", "query", "inputRef"]},
 		"SearchableSelect": {"strings": ["\"SingleSelect\""]},
 		"Slider": {"strings": [".stickToMarkers", "sortedMarkers"]},
