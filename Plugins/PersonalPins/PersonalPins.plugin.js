@@ -2,7 +2,7 @@
  * @name PersonalPins
  * @author DevilBro
  * @authorId 278543574059057154
- * @version 2.3.3
+ * @version 2.3.4
  * @description Allows you to locally pin Messages
  * @invite Jx3TjNS
  * @donate https://www.paypal.me/MircoWittrien
@@ -343,7 +343,7 @@ module.exports = (_ => {
 												look: BDFDB.LibraryComponents.TabBar.Looks.BRAND,
 												selectedItem: popoutProps.selectedFilter.value,
 												items: filterKeys.map(option => _this.getPopoutValue(option, "filter")),
-												style: {marginRight: "auto"},
+												style: {marginRight: "auto", flexBasis: "0%"},
 												onItemSelect: option => {
 													popoutProps.selectedFilter = _this.getPopoutValue(option, "filter");
 													BDFDB.ReactUtils.forceUpdate(this);
